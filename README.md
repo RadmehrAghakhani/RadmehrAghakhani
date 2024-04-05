@@ -2,7 +2,7 @@
 - 👀 I’m interested in qcet
 - 🌱 I’m currently learning q from qcet
 - 💞️ I’m looking to collaborate on qcet projects
-- 📫 How to reach me radmehr2003@gamil.com
+- 📫 How to reach me radmehraghakhani2003@gamil.com
 - ⚡ Fun fact: You've got to explore
 
 <!---
