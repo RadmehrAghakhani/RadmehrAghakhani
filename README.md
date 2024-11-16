@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rudmehr
 - 👀 I’m interested in qcet
-- 🌱 I’m currently learning q from qcet
+- 🌱 I’m currently learning e from qcet
 - 💞️ I’m looking to collaborate on qcet projects
 - 📫 How to reach me radmehraghakhani2003@gmail.com
 - ⚡ Fun fact: You've got to explore
