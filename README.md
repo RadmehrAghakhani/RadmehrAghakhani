@@ -21,9 +21,9 @@ I'm an enthusiast diving into the world of **QCET** (Quantum Computing, Engineer
 ## 📫 Reach Me At
 [![Email](https://img.icons8.com/material-outlined/24/000000/email.png)](mailto:rudmehraghakhani@gmail.com) [rudmehraghakhani@gmail.com](mailto:rudmehraghakhani@gmail.com)  
 <br>
-[![Telegram](https://img.icons8.com/ios/50/000000/telegram.png)](https://t.me/YourTelegramUsername) [Telegram](https://t.me/RudmehrAghakhani)
+[![Telegram](https://img.icons8.com/ios/50/000000/telegram.png)](https://t.me/YourTelegramUsername) (https://t.me/RudmehrAghakhani)
 <br>
-[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/YourLinkedInProfile) [LinkedIn](https://www.linkedin.com/in/rudmehr-aghakhani-78b476216)
+[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/YourLinkedInProfile) (https://www.linkedin.com/in/rudmehr-aghakhani-78b476216)
 
 
 ## ⚡ Fun Fact
