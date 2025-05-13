@@ -3,7 +3,7 @@
 I'm an enthusiast diving into the world of **QCET** (Quantum Computing, Engineering & Technology)! I love exploring the intersection of science and technology, and I'm always excited to learn and build cool things.
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+I'm+Rudmehr+Aghakhani;QCET+Explorer+and+Tech+Learner!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=336699&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+I'm+Rudmehr+Aghakhani;QCET+Explorer+and+Tech+Learner!" alt="Typing SVG" />
 </h3>
 
 ## 👀 Interests
