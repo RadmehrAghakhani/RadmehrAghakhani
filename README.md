@@ -33,6 +33,14 @@ Your brain is constantly eating itself — literally! It's part of a process cal
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadmehrAghakhani&layout=compact&theme=tokyonight)
 
 
+---
+
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RadmehrAghakhani&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 <!-- Optional Visitor Counter -->
 ![Visitor Badge](https://komarev.com/ghpvc/?username=RadmehrAghakhani&style=flat-square&color=blue)
