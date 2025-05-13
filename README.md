@@ -28,7 +28,7 @@ Your brain is constantly eating itself — literally! It's part of a process cal
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadmehrAghakhani&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RadmehrAghakhani&theme=tokyonight&hide_border=false)
+
 
 ---
 
