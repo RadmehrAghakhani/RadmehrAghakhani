@@ -20,7 +20,8 @@ I'm an enthusiast diving into the world of **QCET** (Quantum Computing, Engineer
 
 ## 📫 Reach Me At
 📧 rudmehraghakhani@gmail.com
-
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/RudmehrAghakhani)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/rudmehr-aghakhani-78b476216)
 ## ⚡ Fun Fact
 Your brain is constantly eating itself — literally! It's part of a process called **synaptic pruning**, where your brain removes unnecessary connections to stay efficient.
 
