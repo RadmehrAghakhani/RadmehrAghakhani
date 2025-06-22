@@ -43,9 +43,9 @@ I’m a researcher and engineer exploring the rapidly evolving domain of **Quant
 
 ## 📬 Let’s Connect
 
-[![Email](mailto:rudmehraghakhani@gmail.com) [rudmehraghakhani@gmail.com](mailto:rudmehraghakhani@gmail.com)  
-[![Telegram](https://t.me/RudmehrAghakhani) [Telegram](https://t.me/RudmehrAghakhani)  
-[![LinkedIn](https://www.linkedin.com/in/rudmehr-aghakhani-78b476216)
+[Email](mailto:rudmehraghakhani@gmail.com)  
+ [Telegram](https://t.me/RudmehrAghakhani)  
+[LinkedIn](https://www.linkedin.com/in/rudmehr-aghakhani-78b476216)
 
 ---
 
