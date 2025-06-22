@@ -64,4 +64,3 @@ Did you know? Quantum coherence may play a role in photosynthesis, enabling **pl
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=RadmehrAghakhani&style=flat-square&color=blue)
