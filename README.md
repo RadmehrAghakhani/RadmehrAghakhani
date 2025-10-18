@@ -1,66 +1,64 @@
-# 👋 Hello, I’m **Rudmehr Aghakhani**
+# Hi, I'm Rudmehr Aghakhani 👋
 
-I’m a researcher and engineer exploring the rapidly evolving domain of **Quantum Computing, Engineering, and Technology (QCET)**. With a strong interdisciplinary focus, I work at the intersection of **quantum theory, classical control systems, and advanced computation** — aiming to contribute to the next generation of scalable quantum technologies.
+I am a Bachelor of Science student in Computer Engineering at the University of Isfahan, specializing in Artificial Intelligence.
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=336699&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Rudmehr+Aghakhani;Quantum+Technologist+%7C+Research+Engineer" alt="Typing SVG" />
-</h3>
+My primary passion lies at the intersection of **Quantum Computing** and **Artificial Intelligence**. I am focused on developing and optimizing hybrid quantum-classical algorithms to solve complex problems in Quantum Machine Learning (QML), Quantum Natural Language Processing (QNLP), and computational science.
 
 ---
 
-## 🧠 Research Interests
+## 🚀 Featured Projects
 
-- **Quantum Computing & Algorithms**: Quantum walks, variational circuits, QNLP, quantum-enhanced learning  
-- **Quantum-Classical Systems**: FPGA-controlled photonic systems, MZI-based architectures  
-- **Applied Physics & Engineering**: Signal modulation, quantum optics, embedded design  
+### 1. (B.Sc. Thesis) Generative Quantum GNN for Drug Discovery
 
----
+This project involves the synthesis and optimization of a Quantum Graph Neural Network (QGNN) processor.
+* **Goal:** To build a generative model (a Quantum Graph Variational Autoencoder, or QGVAE) capable of designing novel molecular inhibitors for the KRAS cancer protein.
+* **Innovation:** A core focus is the **Hardware-Aware Synthesis** of the quantum processor (PQC). The circuit's entanglement map is designed to match the physical connectivity of real quantum hardware (like IBM's Guadalupe) to minimize SWAP gates and quantum cost.
+* [cite_start]**Technologies:** PennyLane, PyTorch Geometric, Qiskit, RDKit, AutoDock Vina.
 
-## 🛠️ Technical Focus Areas
+### 2. (Internship) AI-Optimized Quantum Key Distribution (QKD)
 
-- **Quantum Development**: Qiskit, PennyLane, Strawberry Fields, t|ket>  
-- **Hardware & Embedded Systems**: Verilog/VHDL, DAC/VOD interfaces, SoC-FPGA co-design  
-- **Machine Learning for QC**: Reinforcement learning for quantum control and optimization  
-- **Simulation & Prototyping**: MATLAB, Simulink, Python (SciPy stack), JAX  
+During my internship at the University of Isfahan's Quantum Science and Technology Center, I developed an ML model to optimize the parameters for the decoy-state BB84 QKD protocol.
+* **Key Achievement:** I identified a critical flaw in the standard `OpenQKDSecurity` simulation toolkit, discovering its internal optimization module produced unreliable results.
+* **Solution:** I pivoted the project to first generate a reliable ground-truth dataset using a robust numerical optimization algorithm (`Dual Annealing`), which was then used to successfully train the predictive ML model.
+* **Technologies:** TensorFlow/Keras, Python, Dual Annealing, VHDL/FPGA (conceptual design).
 
----
+### 3. Quantum Natural Language Processing (QNLP) Implementation
 
-## 🔬 Currently Working On
-
-- Designing a **quantum walk simulator** using an FPGA-controlled Mach-Zehnder interferometer  
-- Implementing **quantum reinforcement learning** for dynamic control of optical phase modulators  
-- Building LaTeX-based research pipelines for quantum experiment documentation  
-
----
-
-## 🤝 Looking to Collaborate On
-
-- Open research projects in **quantum control, hybrid computing, or photonic quantum simulation**  
-- Educational content or tooling around **hands-on quantum learning**  
-- Innovative cross-domain prototypes at the edge of hardware and computation  
+This project explored the implementation of QNLP tasks by mapping grammatical structures directly onto parameterized quantum circuits.
+***Framework:** Utilized the **DisCoCat (Distributional Compositional Categorical)** framework, which models the meaning of a sentence based on its grammatical composition.
+***Applications:** Successfully implemented two core QNLP tasks: **Sentiment Classification** and **Next-Word Prediction**.
+* [cite_start]**Technologies:** `lambeq`, `DisCoPy`, Qiskit, PennyLane.
 
 ---
 
-## 📬 Let’s Connect
+## 🛠️ Technical Skills
 
-[Email](mailto:rudmehraghakhani@gmail.com)  
- [Telegram](https://t.me/RudmehrAghakhani)  
-[LinkedIn](https://www.linkedin.com/in/rudmehr-aghakhani-78b476216)
-
----
-
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadmehrAghakhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadmehrAghakhani&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
----
-
-## 🧬 Fun Fact from Quantum Biology
-
-Did you know? Quantum coherence may play a role in photosynthesis, enabling **plants to transfer energy with near-perfect efficiency** — a real-world inspiration for quantum algorithms and networks.
+* **Quantum Computing:**
+    * Quantum Machine Learning (QML) 
+    * Quantum Circuit Synthesis & Optimization 
+    * Quantum Natural Language Processing (QNLP) 
+    *Quantum Key Distribution (QKD)
+    * **Tools:** PennyLane , Qiskit , `lambeq` [cite: 934, 1055]
+* **Artificial Intelligence:**
+    * Deep Learning (PyTorch, TensorFlow/Keras)
+    * Graph Neural Networks (PyTorch Geometric) 
+    *Generative Models (VAEs)
+    * Computer Vision (Implemented Mean Shift from scratch, optimized with KDTree & Parallelism) 
+    * Numerical Optimization (Dual Annealing) 
+* **Languages & Other Tools:**
+    * Python, RDKit (Cheminformatics) , AutoDock Vina , MATLAB 
 
 ---
 
+## 🎓 Education
+
+**B.Sc. in Computer Engineering** | University of Isfahan 
+* **Overall GPA:** 17.29 / 20.0 (~3.73 / 4.0) 
+* **Selected Relevant Courses (Grades out of 20):**
+    * Fundamentals of Machine Learning: **20**
+    * Fundamentals of Deep Learning: **20**
+    * Fundamentals of Data Mining: **20** 
+    * Internship (Quantum Computing): **20** 
+    * Fundamentals of Computational Intelligence: **19.25** 
+    * Fundamentals and Applications of Artificial Intelligence: **17.75** 
+    * Computer Networks: **18.47** 
