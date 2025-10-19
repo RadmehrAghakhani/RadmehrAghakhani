@@ -13,7 +13,7 @@ My primary passion lies at the intersection of **Quantum Computing** and **Artif
 This project involves the synthesis and optimization of a Quantum Graph Neural Network (QGNN) processor.
 * **Goal:** To build a generative model (a Quantum Graph Variational Autoencoder, or QGVAE) capable of designing novel molecular inhibitors for the KRAS cancer protein.
 * **Innovation:** A core focus is the **Hardware-Aware Synthesis** of the quantum processor (PQC). The circuit's entanglement map is designed to match the physical connectivity of real quantum hardware (like IBM's Guadalupe) to minimize SWAP gates and quantum cost.
-* [cite_start]**Technologies:** PennyLane, PyTorch Geometric, Qiskit, RDKit, AutoDock Vina.
+**Technologies:** PennyLane, PyTorch Geometric, Qiskit, RDKit, AutoDock Vina.
 
 ### 2. (Internship) AI-Optimized Quantum Key Distribution (QKD)
 
