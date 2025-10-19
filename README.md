@@ -38,7 +38,7 @@ This project explored the implementation of QNLP tasks by mapping grammatical st
     * Quantum Circuit Synthesis & Optimization 
     * Quantum Natural Language Processing (QNLP) 
     *Quantum Key Distribution (QKD)
-    * **Tools:** PennyLane , Qiskit , `lambeq` [cite: 934, 1055]
+    * **Tools:** PennyLane , Qiskit , `lambeq` 
 * **Artificial Intelligence:**
     * Deep Learning (PyTorch, TensorFlow/Keras)
     * Graph Neural Networks (PyTorch Geometric) 
