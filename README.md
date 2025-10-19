@@ -27,7 +27,7 @@ During my internship at the University of Isfahan's Quantum Science and Technolo
 This project explored the implementation of QNLP tasks by mapping grammatical structures directly onto parameterized quantum circuits.
 ***Framework:** Utilized the **DisCoCat (Distributional Compositional Categorical)** framework, which models the meaning of a sentence based on its grammatical composition.
 ***Applications:** Successfully implemented two core QNLP tasks: **Sentiment Classification** and **Next-Word Prediction**.
-* [cite_start]**Technologies:** `lambeq`, `DisCoPy`, Qiskit, PennyLane.
+**Technologies:** `lambeq`, `DisCoPy`, Qiskit, PennyLane.
 
 ---
 
